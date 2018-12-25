@@ -1,5 +1,5 @@
 default:                                                      # Fallback if nothing is specified
-  initial:      smp                                       # used for author lookup in posts and for first two characters in the about page back button
+  initial:      rn                                       # used for author lookup in posts and for first two characters in the about page back button
   name:         "Sigve Pettersen"                               # used to display author name
   cover:        /assets/byggeplass.jpg        # OPTIONAL: defines location of cover image in about page
   picture:      /assets/cowboysigve.jpg                           # OPTIONAL: author picture
@@ -32,7 +32,7 @@ default:                                                      # Fallback if noth
   s500px:                                                     # OPTIONAL: used in the about page
   reddit:                                                     # OPTIONAL: used in the about page
 smp:
-  initial:      smp
+  initial:      rn
   name:         "Sigve Pettersen"
   cover:        /assets/anlegg.jpg
   picture:      /assets/cowboysigve.jpg
