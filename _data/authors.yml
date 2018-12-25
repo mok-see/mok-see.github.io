@@ -1,5 +1,5 @@
 default:                                                      # Fallback if nothing is specified
-  initial:      smp                                       # used for author lookup in posts and for first two characters in the about page back button
+  initial:      RN                                       # used for author lookup in posts and for first two characters in the about page back button
   name:         "Sigve Pettersen"                               # used to display author name
   cover:        /assets/byggeplass.jpg        # OPTIONAL: defines location of cover image in about page
   picture:      /assets/cowboysigve.jpg                           # OPTIONAL: author picture
@@ -9,7 +9,7 @@ default:                                                      # Fallback if noth
   email:        sigve@mok-see.com                                              # OPTIONAL: used in the about page
   twitter:      SigveMartin                                              # OPTIONAL: used in the about page
   linkedin:     sigvemartinpettersen                                              # OPTIONAL: used in the about page
-  cover:        /assets/byggeplass.jpg        # OPTIONAL: defines location of cover image in about page
+  cover:        /assets/anlegg.jpg        # OPTIONAL: defines location of cover image in about page
   picture:      /assets/cowboysigve.jpg                           # OPTIONAL: author picture
   bio:          This is my bio!                               # OPTIONAL: text below author name in posts
   location:     Norway                                       # OPTIONAL: used to display location of the author
@@ -32,7 +32,7 @@ default:                                                      # Fallback if noth
   s500px:                                                     # OPTIONAL: used in the about page
   reddit:                                                     # OPTIONAL: used in the about page
 smp:
-  initial:      smp
+  initial:      RN
   name:         "Sigve Pettersen"
   cover:        /assets/anlegg.jpg
   picture:      /assets/cowboysigve.jpg
