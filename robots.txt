@@ -1,7 +1,4 @@
 User-agent: *
 Disallow:
-<<<<<<< HEAD
+
 Host: https://www.rebelsnarativ.com/
-=======
-Host: https://www.rebelsnarativ.com
->>>>>>> cfd3242d0b4c02e4152f58c6b52075b000987822
