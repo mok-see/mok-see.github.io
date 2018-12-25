@@ -1,7 +1,7 @@
 ---
 layout:    about
 permalink: "/about"
-author:    rn
+author:    smp
 keywords:  about rebel with [mok-see]
 title:     About Rebels Narativ
 menutitle: About
