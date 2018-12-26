@@ -1,24 +1,15 @@
 default:                                                      # Fallback if nothing is specified
-  initial:      rnarativ                                       # used for author lookup in posts and for first two characters in the about page back button
-  name:         "[mok-see]"                               # used to display author name
-  cover:        /assets/byggeplass.jpg        # OPTIONAL: defines location of cover image in about page
-  picture:      /assets/johndoe.jpg                           # OPTIONAL: author picture
-  bio:          "[mok-see] is a company designing and developing better business!"                               # OPTIONAL: text below author name in posts
-  location:     Norway                                       # OPTIONAL: used to display location of the author
+  initial:  rnarativ                                       # used for author lookup in posts and for first two characters in the about page back button
+  name: "[mok-see]"                               # used to display author name
+  cover:  /assets/byggeplass.jpg        # OPTIONAL: defines location of cover image in about page
+  picture:  /assets/johndoe.jpg                           # OPTIONAL: author picture
+  bio:  a company designing and developing better business!                               # OPTIONAL: text below author name in posts
+  location: Norway                                       # OPTIONAL: used to display location of the author
   website:                          						  # OPTIONAL: link to the author of a post
   email:                                                      # OPTIONAL: used in the about page
   twitter:                                                    # OPTIONAL: used in the about page
-  linkedin:                                                   # OPTIONAL: used in the about page
-  cover:        /assets/anlegg.jpg        # OPTIONAL: defines location of cover image in about page
-  picture:      /assets/johndoe.jpg                           # OPTIONAL: author picture
-  bio:          [mok-see] is a company designing and developing better business!                               # OPTIONAL: text below author name in posts
-  location:     Norway                                       # OPTIONAL: used to display location of the author
-  website:                          						  # OPTIONAL: link to the author of a post
-  email:                                                      # OPTIONAL: used in the about page
-  twitter:                                                    # OPTIONAL: used in the about page
-  linkedin:                                                   # OPTIONAL: used in the about page
-  xing:                                                       # OPTIONAL: used in the about page
-  github:       mok-see                                              # OPTIONAL: used in the about page
+  linkedin:                                                   # OPTIONAL: used in the about page                                                 # OPTIONAL: used in the about page
+  github: mok-see                                              # OPTIONAL: used in the about page
   stackoverflow:                                              # OPTIONAL: used in the about page
   facebook:                                                   # OPTIONAL: used in the about page
   gplus:                                                      # OPTIONAL: used in the about page
@@ -32,33 +23,33 @@ default:                                                      # Fallback if noth
   s500px:                                                     # OPTIONAL: used in the about page
   reddit:                                                     # OPTIONAL: used in the about page
 rnarativ:
-  initial:      rnarativ
-  name:         "[mok-see]"
-  cover:        /assets/byggeplass.jpg
-  picture:      /assets/johndoe.jpg
-  bio:          a company designing and developing better business!
-  location:     Norway
+  initial:  rnarativ
+  name: "[mok-see]"
+  cover:  /assets/anlegg.jpg
+  picture:  /assets/johndoe.jpg
+  bio:  a company designing and developing better business!
+  location: Norway
   email:
   twitter:
   linkedin:
-  github:       "mok-see"
+  github: "mok-see"
 rnsigve:
-  initial:      rnsigve
-  name:         "Sigve Pettersen"
-  cover:        /assets/byggeplass.jpg
-  picture:      /assets/johndoe.jpg
-  bio:          A rebel with [mok-see]!
-  location:     Norway
-  email:        "sigve@mok-see.com"
-  twitter:      SigveMartin
-  linkedin:     sigvemartinpettersen
-  github:       SigveMartin
+  initial:  rnsigve
+  name: "Sigve Pettersen"
+  cover:  /assets/byggeplass.jpg
+  picture:  /assets/johndoe.jpg
+  bio:  A rebel with [mok-see]!
+  location: Norway
+  email:  "sigve@mok-see.com"
+  twitter:  SigveMartin
+  linkedin: sigvemartinpettersen
+  github: SigveMartin
 jwillmer:
-  initial:      jwillmer
-  name:         "Jens Willmer"
-  picture:      /assets/jwillmer.jpg
-  bio:          All about technology
-  location:     Germany
-  website:      "http://jwillmer.de/cv"
-  twitter:      jenswillmer
-  github:       jwillmer
+  initial:  jwillmer
+  name: "Jens Willmer"
+  picture:  /assets/jwillmer.jpg
+  bio:  All about technology
+  location: Germany
+  website:  "http://jwillmer.de/cv"
+  twitter:  jenswillmer
+  github: jwillmer
