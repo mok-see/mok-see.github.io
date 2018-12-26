@@ -1,5 +1,5 @@
 default:                                                      # Fallback if nothing is specified
-  initial:     rnarativ                                       # used for author lookup in posts and for first two characters in the about page back button
+  initial:      rnarativ                                       # used for author lookup in posts and for first two characters in the about page back button
   name:         "[mok-see]"                               # used to display author name
   cover:        /assets/byggeplass.jpg        # OPTIONAL: defines location of cover image in about page
   picture:      /assets/johndoe.jpg                           # OPTIONAL: author picture
