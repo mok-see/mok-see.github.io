@@ -2,11 +2,11 @@
 layout:    about
 permalink: "/about"
 author:    rnarativ
-keywords:  about author of the company blog for [mok-see]
+keywords:  about [mok-see] and the rebels narativ
 title:     About Rebels Narativ, the company blog for [mok-see]
 menutitle: About
 weight:    90
-excerpt:   This page contains information about the author.
+excerpt:   This page contains information about [mok-see].
 ---
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
