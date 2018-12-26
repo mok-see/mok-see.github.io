@@ -13,5 +13,5 @@ excerpt:   This page contains information about the author.
 [text] comes here...
 
 <p class="github-button-container">
-<a class="github-button" href="https://github.com/SigveMartin" data-size="large" data-show-count="true" aria-label="Star SigveMartin on GitHub">SigveMartin</a>
+<a class="github-button" href="https://github.com/mok-see" data-size="large" data-show-count="true" aria-label="Star [mok-see] on GitHub">[mok-see]</a>
 </p>
