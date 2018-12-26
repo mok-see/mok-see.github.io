@@ -1,9 +1,9 @@
 ---
 layout:    about
 permalink: "/about"
-author:    rn
+author:    ms
 keywords:  about author of the company blog for [mok-see]
-title:     About Rebels Narativ
+title:     About Rebels Narativ, the company blog for [mok-see]
 menutitle: About
 weight:    90
 excerpt:   This page contains information about the author.

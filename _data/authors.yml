@@ -1,6 +1,6 @@
 default:                                                      # Fallback if nothing is specified
-  initial:      rn                                       # used for author lookup in posts and for first two characters in the about page back button
-  name:         "Sigve Pettersen"                               # used to display author name
+  initial:      ms                                       # used for author lookup in posts and for first two characters in the about page back button
+  name:         "[mok-see]"                               # used to display author name
   cover:        /assets/byggeplass.jpg        # OPTIONAL: defines location of cover image in about page
   picture:      /assets/cowboysigve.jpg                           # OPTIONAL: author picture
   bio:          This is my bio!                               # OPTIONAL: text below author name in posts
@@ -11,7 +11,7 @@ default:                                                      # Fallback if noth
   linkedin:     sigvemartinpettersen                                              # OPTIONAL: used in the about page
   cover:        /assets/anlegg.jpg        # OPTIONAL: defines location of cover image in about page
   picture:      /assets/johndoe.jpg                           # OPTIONAL: author picture
-  bio:          This is my bio!                               # OPTIONAL: text below author name in posts
+  bio:          [mok-see] is a company designing and developing better business!                               # OPTIONAL: text below author name in posts
   location:     Norway                                       # OPTIONAL: used to display location of the author
   website:                          						  # OPTIONAL: link to the author of a post
   email:        sigve@mok-see.com                                              # OPTIONAL: used in the about page
@@ -31,10 +31,10 @@ default:                                                      # Fallback if noth
   twitch:                                                     # OPTIONAL: used in the about page
   s500px:                                                     # OPTIONAL: used in the about page
   reddit:                                                     # OPTIONAL: used in the about page
-rn:
-  initial:      rn
+sp:
+  initial:      sp
   name:         "Sigve Pettersen"
-  cover:        /assets/anlegg.jpg
+  cover:        /assets/byggeplass.jpg
   picture:      /assets/johndoe.jpg
   bio:          This is my bio!
   location:     Norway
