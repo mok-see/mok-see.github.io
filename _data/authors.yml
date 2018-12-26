@@ -1,5 +1,5 @@
 default:                                                      # Fallback if nothing is specified
-  initial:      smp                                       # used for author lookup in posts and for first two characters in the about page back button
+  initial:      rn                                       # used for author lookup in posts and for first two characters in the about page back button
   name:         "Sigve Pettersen"                               # used to display author name
   cover:        /assets/byggeplass.jpg        # OPTIONAL: defines location of cover image in about page
   picture:      /assets/cowboysigve.jpg                           # OPTIONAL: author picture
@@ -16,7 +16,7 @@ default:                                                      # Fallback if noth
   website:                          						  # OPTIONAL: link to the author of a post
   email:        sigve@mok-see.com                                              # OPTIONAL: used in the about page
   twitter:      SigveMartin                                              # OPTIONAL: used in the about page
-  linkedin:                                                   # OPTIONAL: used in the about page
+  linkedin:     sigvemartinpettersen                                              # OPTIONAL: used in the about page
   xing:                                                       # OPTIONAL: used in the about page
   github:       SigveMartin                                              # OPTIONAL: used in the about page
   stackoverflow:                                              # OPTIONAL: used in the about page
@@ -31,8 +31,8 @@ default:                                                      # Fallback if noth
   twitch:                                                     # OPTIONAL: used in the about page
   s500px:                                                     # OPTIONAL: used in the about page
   reddit:                                                     # OPTIONAL: used in the about page
-smp:
-  initial:      smp
+rn:
+  initial:      rn
   name:         "Sigve Pettersen"
   cover:        /assets/anlegg.jpg
   picture:      /assets/johndoe.jpg
@@ -40,5 +40,5 @@ smp:
   location:     Norway
   email:        "sigve@mok-see.com"
   twitter:      "SigveMartin"
-  twitch:       "-"
+  linkedin:     sigvemartinpettersen
   github:       SigveMartin
