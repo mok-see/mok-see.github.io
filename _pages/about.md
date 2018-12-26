@@ -1,10 +1,10 @@
 ---
 layout:    about
-permalink: "/about"
+permalink: "/rebel"
 author:    rnsigve
 keywords:  about [mok-see] and the rebels narativ
 title:     About Rebels Narativ, the company blog for [mok-see]
-menutitle: About
+menutitle: Rebel
 weight:    90
 excerpt:   This page contains information about [mok-see].
 ---
