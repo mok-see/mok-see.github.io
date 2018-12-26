@@ -1,7 +1,7 @@
 ---
 layout:    about
 permalink: "/about"
-author:    rnsigve
+author:    rnarativ
 keywords:  about [mok-see] and the rebels narativ
 title:     About Rebels Narativ, the company blog for [mok-see]
 menutitle: About
