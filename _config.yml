@@ -7,9 +7,9 @@
 
 # Site settings
 title:            Rebels Narativ
-subtitle:         Rebel with [mok-see]
-description:      This is the rebels narative designing and developing better businesses with [mok-see]
-keywords:         blog designing developing better business [mok-see] construction digitization
+subtitle:         The company blog for [mok-see]
+description:      This is the rebels narative of digitization and innovation in the built environment.
+keywords:         blog on digitization and innovation in the AEC industry
 language:         "en" # default language of the blog. Language codes: http://www.w3schools.com/tags/ref_language_codes.asp
 
 baseurl:          "/" # the subpath of your site, e.g. /blog

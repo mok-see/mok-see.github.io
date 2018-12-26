@@ -2,7 +2,7 @@
 layout:    about
 permalink: "/about"
 author:    rn
-keywords:  about rebel with [mok-see]
+keywords:  about author of the company blog for [mok-see]
 title:     About Rebels Narativ
 menutitle: About
 weight:    90
