@@ -36,8 +36,8 @@ rnarativ:
 rnsigve:
   initial:  rnsigve
   name: "Sigve Pettersen"
-  cover:  /assets/Picture1.jpg
-  picture:  /assets/sigvepettersen.jpg
+  cover:  /assets/Picture1.png
+  picture:  /assets/sigvepettersen2.jpg
   bio:  A rebel with [mok-see]!
   location: Norway
   email:  "sigve@mok-see.com"
