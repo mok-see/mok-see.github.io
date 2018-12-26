@@ -27,7 +27,7 @@ rnarativ:
   name: "[mok-see]"
   cover:  /assets/anlegg.jpg
   picture:  /assets/johndoe.jpg
-  bio:  a company designing and developing better business!
+  bio:  a company designing and building better businesses!
   location: Norway
   email:
   twitter:
@@ -36,7 +36,7 @@ rnarativ:
 rnsigve:
   initial:  rnsigve
   name: "Sigve Pettersen"
-  cover:  /assets/Picture1.png
+  cover:  /assets/anlegg.png
   picture:  /assets/sigvepettersen2.jpg
   bio:  A rebel with [mok-see]!
   location: Norway
