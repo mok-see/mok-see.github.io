@@ -36,7 +36,7 @@ rnarativ:
 rnsigve:
   initial:  rnsigve
   name: "Sigve Pettersen"
-  cover:  /assets/anlegg.png
+  cover:  /assets/anlegg.jpg
   picture:  /assets/sigvepettersen2.jpg
   bio:  A rebel with [mok-see]!
   location: Norway
