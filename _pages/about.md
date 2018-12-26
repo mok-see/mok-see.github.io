@@ -2,11 +2,11 @@
 layout:    about
 permalink: "/rebel"
 author:    rnsigve
-keywords:  about [mok-see] and the rebels narativ
-title:     About Rebels Narativ, the company blog for [mok-see]
+keywords:  about [mok-see], Sigve Pettersen and the rebels narativ
+title:     About Sigve Pettersen, owner of [mok-see]
 menutitle: Rebel
 weight:    90
-excerpt:   This page contains information about [mok-see].
+excerpt:   This page contains information about Sigve Pettersen.
 ---
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
