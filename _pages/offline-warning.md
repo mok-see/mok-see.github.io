@@ -1,7 +1,7 @@
 ---
 layout:    page
 permalink: "/offline-warning/"
-author:    ms
+author:    sp
 weight:    5
 menutitle: Offline
 title:     Offline Warning

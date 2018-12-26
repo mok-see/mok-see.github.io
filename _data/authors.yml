@@ -1,24 +1,24 @@
 default:                                                      # Fallback if nothing is specified
-  initial:      ms                                       # used for author lookup in posts and for first two characters in the about page back button
+  initial:      rn                                       # used for author lookup in posts and for first two characters in the about page back button
   name:         "[mok-see]"                               # used to display author name
   cover:        /assets/byggeplass.jpg        # OPTIONAL: defines location of cover image in about page
   picture:      /assets/cowboysigve.jpg                           # OPTIONAL: author picture
   bio:          This is my bio!                               # OPTIONAL: text below author name in posts
-  location:     Oslo                                       # OPTIONAL: used to display location of the author
+  location:     Norway                                       # OPTIONAL: used to display location of the author
   website:                          						  # OPTIONAL: link to the author of a post
-  email:        sigve@mok-see.com                                              # OPTIONAL: used in the about page
-  twitter:      SigveMartin                                              # OPTIONAL: used in the about page
-  linkedin:     sigvemartinpettersen                                              # OPTIONAL: used in the about page
+  email:                                                      # OPTIONAL: used in the about page
+  twitter:      mok-see                                              # OPTIONAL: used in the about page
+  linkedin:                                                   # OPTIONAL: used in the about page
   cover:        /assets/anlegg.jpg        # OPTIONAL: defines location of cover image in about page
   picture:      /assets/johndoe.jpg                           # OPTIONAL: author picture
   bio:          [mok-see] is a company designing and developing better business!                               # OPTIONAL: text below author name in posts
   location:     Norway                                       # OPTIONAL: used to display location of the author
   website:                          						  # OPTIONAL: link to the author of a post
-  email:        sigve@mok-see.com                                              # OPTIONAL: used in the about page
-  twitter:      SigveMartin                                              # OPTIONAL: used in the about page
-  linkedin:     sigvemartinpettersen                                              # OPTIONAL: used in the about page
+  email:                                                      # OPTIONAL: used in the about page
+  twitter:                                                    # OPTIONAL: used in the about page
+  linkedin:                                                   # OPTIONAL: used in the about page
   xing:                                                       # OPTIONAL: used in the about page
-  github:       SigveMartin                                              # OPTIONAL: used in the about page
+  github:       mok-see                                              # OPTIONAL: used in the about page
   stackoverflow:                                              # OPTIONAL: used in the about page
   facebook:                                                   # OPTIONAL: used in the about page
   gplus:                                                      # OPTIONAL: used in the about page
@@ -31,7 +31,7 @@ default:                                                      # Fallback if noth
   twitch:                                                     # OPTIONAL: used in the about page
   s500px:                                                     # OPTIONAL: used in the about page
   reddit:                                                     # OPTIONAL: used in the about page
-sp:
+rn:
   initial:      sp
   name:         "Sigve Pettersen"
   cover:        /assets/byggeplass.jpg
