@@ -31,7 +31,7 @@ default:                                                      # Fallback if noth
   twitch:                                                     # OPTIONAL: used in the about page
   s500px:                                                     # OPTIONAL: used in the about page
   reddit:                                                     # OPTIONAL: used in the about page
-rn:
+sp:
   initial:      sp
   name:         "Sigve Pettersen"
   cover:        /assets/byggeplass.jpg
