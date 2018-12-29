@@ -11,17 +11,20 @@ excerpt:   This page contains information about [mok-see].
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
 
-# Uncertainty: Your Secret Weapon
+## Uncertainty: Your Secret Weapon
 >Most of all Design, is about creating the conditions by which businesses thrive, grow, and evolve in the face of uncertainty and change. As such, better businesses are ones that approach problems in new, systematic way, focusing more on **doing** rather than on planning and prediction. <cite>-- [Design A Better Business (2016)](https://designabetterbusiness.com) </cite>
 
 So first of all, [mok-see] is the phonetic name of [moxie](https://www.dictionary.com/browse/moxie):  
 <div class="tip">
 noun Slang.
-1. vigor; verve; pep.
-2. courage and aggressiveness; nerve.
-3. skill; know-how.
+<ul>
+  <li>vigor; verve; pep.</li>
+  <li>courage and aggressiveness; nerve.</li>
+  <li>skill; know-how.</li>
+</ul>
 </div>
 
+## Rebels with [mok-see]
 
 [mok-see] AS are both designing and redesigning game-changing businesses, through starting new or leading change and innovation in existing businesses and organisations.
 
