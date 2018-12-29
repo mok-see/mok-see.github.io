@@ -14,8 +14,10 @@ excerpt:   This page contains information about [mok-see].
 ## Uncertainty: Your Secret Weapon
 >Most of all Design, is about creating the conditions by which businesses thrive, grow, and evolve in the face of uncertainty and change. As such, better businesses are ones that approach problems in new, systematic way, focusing more on **doing** rather than on planning and prediction. <cite>-- [Design A Better Business (2016)](https://designabetterbusiness.com) </cite>
 
-So first of all, [mok-see] is the phonetic name of [moxie](https://www.dictionary.com/browse/moxie):  
+
 <div class="tip">
+So first of all, **[mok-see]** is the phonetic name of [moxie](https://www.dictionary.com/browse/moxie):
+
 noun Slang.
 <ul>
   <li>vigor; verve; pep.</li>
