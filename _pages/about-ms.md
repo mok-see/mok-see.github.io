@@ -16,7 +16,7 @@ excerpt:   This page contains information about [mok-see].
 
 
 <div class="tip">
-So first of all, **[mok-see]** is the phonetic name of [moxie](https://www.dictionary.com/browse/moxie):
+So first of all, <strong>[mok-see]</strong> is the phonetic name of [moxie](https://www.dictionary.com/browse/moxie):
 
 noun Slang.
 <ul>
