@@ -11,20 +11,22 @@ excerpt:   This page contains information about [mok-see].
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
 
-## Uncertainty: Your Secret Weapon
+## Uncertainty: Our Secret Weapon
 >Most of all Design, is about creating the conditions by which businesses thrive, grow, and evolve in the face of uncertainty and change. As such, better businesses are ones that approach problems in new, systematic way, focusing more on **doing** rather than on planning and prediction. <cite>-- [Design A Better Business (2016)](https://designabetterbusiness.com) </cite>
 
 The AECO industry, and your business, is filled with uncertainty. Digital technology and business models are transforming industries. Within this uncertainty exists innumerable opportunities to design (or redesign) game changing businesses. These opportunities are there for the taking, if you know how to look for them.
 
 <div class="tip">
-So first of all, <strong>[mok-see]</strong> is the phonetic name of [moxie](https://www.dictionary.com/browse/moxie):
-
+<p>So first of all, <strong>[mok-see]</strong> is the phonetic name of moxie:
+</p>
+<p>
 noun Slang.
 <ul>
   <li>vigor; verve; pep.</li>
   <li>courage and aggressiveness; nerve.</li>
   <li>skill; know-how.</li>
 </ul>
+</p>
 </div>
 
 ## Rebels with [mok-see]
