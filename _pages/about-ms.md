@@ -33,9 +33,7 @@ It is owned and lead by Sigve Pettersen, who is passionate entrepreneur thinking
 
 The cause is to work towards a sustainable built environment, through connecting technology, innovation, business and strategy.  
 
-```html
-{% raw %}<div class="bg-scroll" style="background-image: url('{{ "/media/img/Rendra-O-1024x444.png" | absolute_url }}')"></div>{% endraw %}
-```
+<div class="bg-scroll" style="background-image: url('{{ "/media/img/Rendra-O-1024x444.png" | absolute_url }}')"></div>
 
 This was the drive this Rebel had while co-founding Rendra AS back in 2012, bringing collaborative openBIM out of the barracks and into the field, with Rendra O (now called [StreamBIM](https://streambim.com/)).
 
