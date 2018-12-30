@@ -1,7 +1,7 @@
 ---
 layout:    about
 permalink: "/mok-see"
-author:    rnarativ
+author:    rnsigve
 keywords:  About [mok-see] and the rebels narrative
 title:     About [mok-see] and the rebels narrative
 menutitle: "[mok-see]"
