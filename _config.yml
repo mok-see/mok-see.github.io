@@ -16,7 +16,7 @@ baseurl:          "/" # the subpath of your site, e.g. /blog
 url:              "" # the base hostname & protocol for your site. Have a look at robots.txt as well!
 permalink:        /blog/:categories/:title
 cover:            /assets/byggeplass.jpg
-disqus_shortname: "rebelsnarativ"
+disqus_shortname: "rebelsnarrativ"
 
 # Build settings
 sass:

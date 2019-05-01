@@ -35,13 +35,11 @@ noun Slang.
 
 The company was established in 2012, when it co-founded Rendra AS, bringing collaborative openBIM out of the barracks and into the field, with Rendra O (now called [StreamBIM](https://streambim.com/)).
 
-<div class="bg-scroll" style="background-image: url('{{ "/media/img/Rendra-O-1024x444.png" | absolute_url }}')"></div>
-
 The Rebels Narrative is a blog where [mok-see] shares some thoughts on designing and developing better businesses for a sustainable built environment.
 
 ## Designer: A Rebel With A Cause
 
-It is owned by Sigve Pettersen, who is passionate entrepreneur thinking that "A little less conversation, a little more action please" will improve the world. As such, he is a "Rebel with a cause".
+It is owned by Sigve Pettersen, who is passionate entrepreneur thinking that "A little less conversation, a little more action please" will improve the world.
 
 The cause is to enable a sustainable built environment, through designing and developing better businesses by connecting technology, innovation, business and strategy.
 

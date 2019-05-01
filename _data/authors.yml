@@ -37,7 +37,7 @@ rnsigve:
   initial:  rnsigve
   name: "Sigve Pettersen"
   cover:  /assets/anlegg.jpg
-  picture:  /assets/sigvepettersen2.jpg
+  picture:  /assets/sigvepettersen.jpg
   bio:  A rebel with [mok-see]!
   location: Norway
   email:  "sigve@mok-see.com"
