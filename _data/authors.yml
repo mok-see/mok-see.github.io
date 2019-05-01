@@ -2,7 +2,7 @@ default:                                                      # Fallback if noth
   initial:  rnarativ                                       # used for author lookup in posts and for first two characters in the about page back button
   name: "[mok-see]"                               # used to display author name
   cover:  /assets/byggeplass.jpg        # OPTIONAL: defines location of cover image in about page
-  picture:  /assets/johndoe.jpg                           # OPTIONAL: author picture
+  picture:  /assets/sigvepettersen.jpg                          # OPTIONAL: author picture
   bio:  a company designing and developing better business!                               # OPTIONAL: text below author name in posts
   location: Norway                                       # OPTIONAL: used to display location of the author
   website:                          						  # OPTIONAL: link to the author of a post
@@ -26,7 +26,7 @@ rnarativ:
   initial:  rnarativ
   name: "[mok-see]"
   cover:  /assets/anlegg.jpg
-  picture:  /assets/johndoe.jpg
+  picture:  /assets/sigvepettersen.jpg
   bio:  a company designing and building better businesses!
   location: Norway
   email:
