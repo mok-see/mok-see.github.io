@@ -1,5 +1,5 @@
 ---
-layout:    Notebook
+layout:    page
 permalink: "/notebook"
 keywords:  jypyter notebook IFC Python openBIM
 title:     Jupyter notebook server for IFC programming
