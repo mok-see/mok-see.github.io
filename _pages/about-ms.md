@@ -34,7 +34,7 @@ The cause is to enable a sustainable built environment, through designing and de
 The company was established in 2012, when it co-founded Rendra AS, bringing collaborative openBIM out of the barracks and into the field, with Rendra O (now called [StreamBIM](https://streambim.com/)).
 
 ## Rebels with [mok-see]
-The Rebels Narrative is a blog where [mok-see] shares some thoughts on designing and developing better businesses for a sustainable built environment.
+Rebels Narrative is a blog where [mok-see] shares some thoughts on designing and developing better businesses for a sustainable built environment.
 
 [mok-see] AS is owned by Sigve Pettersen, who is passionate entrepreneur thinking that "A little less conversation, a little more action please" will improve the world.
 
