@@ -2,9 +2,9 @@
 layout:    page
 permalink: "/notebook"
 keywords:  jypyter notebook IFC Python openBIM
-title:     Jupyter notebook server for IFC programming
+title:     Jupyterhub for IFC programming
 menutitle: "Notebook"
-weight:    90
+weight:    80
 excerpt:   This page contains information and link to rebelsnarrativ's jupyter notebook.
 ---
 <script async defer src="https://buttons.github.io/buttons.js"></script>
@@ -21,9 +21,6 @@ Due to [Ifcopenshell](http://ifcopenshell.org/) and [pythonOCC](http://www.pytho
 [mok-see] has set up a running jupyterhub where you could log on and test for yourself.
 
 To try it out, go to: [notebook.rebelsnarrativ.com](https://notebook.rebelsnarrative.com)
-
-
-
 
 <p class="github-button-container">
 <a class="github-button" href="https://github.com/mok-see" data-size="large" data-show-count="true" aria-label="Star [mok-see] on GitHub">[mok-see]</a>
