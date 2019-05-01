@@ -1,12 +1,11 @@
 ---
-layout:    about
-permalink: "/mok-see"
-author:    rnarativ
+layout:    Notebook
+permalink: "/notebook"
 keywords:  jypyter notebook IFC Python openBIM
 title:     Jupyter notebook server for IFC programming
 menutitle: "Notebook"
 weight:    90
-excerpt:   This page contains information about [mok-see].
+excerpt:   This page contains information and link to rebelsnarrativ's jupyter notebook.
 ---
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
