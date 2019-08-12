@@ -9,10 +9,6 @@ excerpt:   This page contains information and link to rebelsnarrativ's jupyter n
 ---
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-
-## Try it yourself where
-To try it out, go to: [notebook.rebelsnarrativ.com](https://notebook.rebelsnarrative.com)
-
 ## Using python to script buildings
 
 Python is a widely used programming language that is many times called a glue language. It is heavily used from data science to fullstack applications.
