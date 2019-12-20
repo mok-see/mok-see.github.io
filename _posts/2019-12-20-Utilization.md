@@ -7,6 +7,7 @@ tags:              Construction Utilization DataDriven Productivity
 category:          Construction
 author:            rnsigve
 cover:             "assets/utilization-header.png"
+redirect_from:     "/machine-utilization"
 ---
 
 
