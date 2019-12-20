@@ -1,6 +1,7 @@
 ---
 layout:            post
-title:             "Unized Machines Can Improve Margins with 15%"
+title:             "AirBnB for Heavy Machinery Improves Margins with 15%"
+menutitle:         "AirBnB for Heavy Machinery"
 date:              2019-12-20 18:25:00 +0300
 tags:              Construction Utilization DataDriven Productivity
 category:          Construction
