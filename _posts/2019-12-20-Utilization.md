@@ -6,7 +6,7 @@ date:              2019-12-20 18:25:00 +0300
 tags:              Construction Utilization DataDriven Productivity
 category:          Construction
 author:            rnsigve
-cover:             "assets/utilization-header.png"
+cover:             "assets/utilization_header.png"
 redirect_from:     "/machine-utilization"
 ---
 
