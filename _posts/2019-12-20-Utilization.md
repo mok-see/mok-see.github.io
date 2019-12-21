@@ -13,103 +13,41 @@ redirect_from:     "/machine-utilization"
 
 
 
-## Screenshots
+## Low Productivity and Margins in Construction
 
-<div class="album">
+Construction productivity has actually declined in some markets since the 1990s as showed below.
 
-<figure>
-<img src="{{ "/media/img/2016-06-08-Readme-front-page-previewe.jpg" | absolute_url }}" />
-<figcaption>Frontpage</figcaption>
-</figure>
+![Construction Labour Productivity](/assets/productivity.png)
 
-<figure>
-<img src="{{ "/media/img/2016-06-08-Readme-post-preview.jpg" | absolute_url }}" />
-<figcaption>Post</figcaption>
-</figure>
+Financial returns for contractors are often relatively low—and volatile and as activity is uncertain the average machine owner have under 50% utilization of their machines.
 
-<figure>
-<img src="{{ "/media/img/2016-06-08-Readme-content-preview.jpg" | absolute_url }}" />
-<figcaption>Demo</figcaption>
-</figure>
+![Construction Labour Productivity](/assets/machine-utilization.png)
 
-<figure>
-<img src="{{ "/media/img/2016-06-08-Readme-about-preview.jpg" | absolute_url }}" />
-<figcaption>About Page</figcaption>
-</figure>
+Activity is project based, and the contractors compete for the project that generate activity and need for machine capacity. This means that when some have a high need for capacity, others peers in the market have over capacity. Hence, there is a potential for improving productivity and financial returns on investments in equipment, by peer-to-peer rental.
 
-</div>
+To explore this, we asked ourselves;
 
+1) How many machine owners are there in Norway, and how many machines do they typically have?
 
-## Installation
+2) How are the market is disributed over the country?
 
-- To generate/host the blog you need to [install Jekyll](https://jekyllrb.com/docs/installation/).
-- For the plugins (github-pages) you need to install [Bundler](http://bundler.io/): `gem install bundler`
-   - Open a command prompt and install the plugins (github-pages): `bundle install`
-   - On Windows you can get an exception if you have not the latest rubygems. To solve it you get the latest rubygems or you can read [How to install Jekyll and pages-gem on Windows (x64)](http://jwillmer.de/blog/tutorial/how-to-install-jekyll-and-pages-gem-on-windows-10-x46) or you just remove the plugins by deleting the `Gemfile` and delete all `gems:` from the `_config.yml`.
+3) What is the market potential for a machine owner, to rent out the machine while not used?
 
-### Build
+## The Norwegian Construction industry
+We looked at 2004 Construction Companies in Norway, that collectively turn over **EUR 10 Billion** annual revenue. Out of these companies **1870** of them have ownes heavy equipment. They own a total of **31 386** machines, of different types as showed in the histogram below.
 
-- To build the static site you can use the generated site folder that Jekyll creates when you use `jekyll serve` or you can build it explicitly with `jekyll build`.
-- To [auto refresh your browser on changes](https://github.com/awood/hawkins) run jekyll with the following command `jekyll liveserve`
-- If you like to use GitHub to host your blog you can [fork this project](https://github.com/jwillmer/jekyllDecent) and publish the code to `gh-pages`. GitHub has jekyll included and will generate the site for you.
+ ![Construction Labour Productivity](/assets/machine_types.png)
 
+## How this market is distributed in Norway
 
-## User Content
+The companies are distributed over the country, as showed below.
 
-Blogposts can be written in [Markdown](https://de.wikipedia.org/wiki/Markdown).
+![Construction Labour Productivity](/assets/machine_owners_per_county.png)
 
-- The folder for blog content is `_posts`
-- For author details you need to modify `_data/authors.yml`
-- For cv details you need to modify `_data/cv.yml`
-- If you change the author in `_data` you need to change the `author` attribute in `_posts` and `_pages` as well
-- For site properties (like the name) you need to modify `_config.yml` and `robots.txt`
+Where we see that most are concentrated in the middle of Norway, where we also see most of the machines are as well.
 
-After modifying `*.yml` files you need to restart jekyll to take effect.
+![Construction Labour Productivity](/assets/machines_per_county.png)
 
-### YAML Features
+Projects comes in different sizes, where the smaller projects are regional whereas bigger ones are national.
 
-Following (additional) features are supported in the header ([YAML Front Matter](https://jekyllrb.com/docs/frontmatter/)) of each post. A detailed description can be found in the [YAML Custom Features post]({{ "/blog/features/YAML-Features" | absolute_url }}).
-
-```bash
----
-title:         Example      #Page/post title
-author:        jwillmer     #Page/post author
-cover:         /image.jpg   #Optional: Posibillity to change cover on a post/page
-redirect_from: /foo         #Optional: Redirect url
-visible:       false        #Optional: Hide page from listing in the menu.
-weight:        5            #Optional: Influence sorting of pages in the menu
-menutitle:     Offline      #Optional: Use a secondary name in the menu/post list
-tags:          hallo welt   #Optional: Will be displayed as tags and as keywords in posts
-keywords:      hallo welt   #Optional: Will add keywords to a page
-language:      en           #Optional: Will set a specific language of the page
-comments:      false        #Optional: Will enable/disable comments in your post
-math:          false        #Optional: Will enable math formulas
-citation:      [..]         #Optional: Additional meta tags for scholar articles
----
-```
-
-## License
-
-The theme is released under **[The MIT License (MIT)](https://github.com/jwillmer/jekyllDecent/blob/gh-pages/LICENSE)**.
-
-    The MIT License (MIT)
-
-    Copyright (c) 2016 Jens Willmer
-
-    Permission is hereby granted, free of charge, to any person obtaining a copy
-    of this software and associated documentation files (the "Software"), to deal
-    in the Software without restriction, including without limitation the rights
-    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-    copies of the Software, and to permit persons to whom the Software is
-    furnished to do so, subject to the following conditions:
-
-    The above copyright notice and this permission notice shall be included in all
-    copies or substantial portions of the Software.
-
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-    SOFTWARE.    
+*** om størrelse og distribusjon ????
