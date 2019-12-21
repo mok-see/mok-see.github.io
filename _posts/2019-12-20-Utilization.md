@@ -19,7 +19,7 @@ Construction productivity has actually declined in some markets since the 1990s 
 
 ![Construction Labour Productivity](/assets/productivity.png)
 
-Financial returns for contractors are often relatively low—and volatile and as activity is uncertain the average machine owner have under 50% utilization of their machines.
+Financial returns for contractors are often relatively low—and volatile and as activity is uncertain. Machine owners typically invest in equipment to handle high activity, but as the average contractor have under 50% utilization of their machines it shows that the optimal investment level could be lower.
 
 ![Construction Market Utilization](/assets/machine-utilization.png)
 
