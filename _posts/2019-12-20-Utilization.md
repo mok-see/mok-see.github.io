@@ -1,6 +1,6 @@
 ---
 layout:            post
-title:             "AirBnB for Heavy Machinery Improves Industry Productivity with 10%"
+title:             "Sharing Platform Improves Industry Productivity with 11%"
 menutitle:         "AirBnB for Heavy Machinery"
 date:              2019-12-20 18:25:00 +0300
 tags:              "Platform Economy"
