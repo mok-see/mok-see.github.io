@@ -21,7 +21,7 @@ Construction productivity has actually declined in some markets since the 1990s 
 
 Financial returns for contractors are often relatively low—and volatile and as activity is uncertain. Machine owners typically invest in equipment to handle high activity, but as the average contractor have under 50% utilization of their machines it shows that the optimal investment level could be lower.
 
-![Construction Market Utilization](/assets/machine-utilization.png)
+![Construction Market Utilization](/assets/machine-utilization2.png)
 
 Activity is project based, and the contractors compete for the project that generate activity and need for machine capacity. This means that when some have a high need for capacity, others peers in the market have over capacity. Hence, there is a potential for improving productivity and financial returns on investments in equipment, by peer-to-peer rental.
 
@@ -36,7 +36,7 @@ To explore this, we asked ourselves;
 ## The Norwegian Construction industry
 We looked at 2004 Construction Companies in Norway, that collectively turn over **EUR 10 Billion** annual revenue. Out of these companies **1870** of them have ownes heavy equipment. They own a total of **31 386** machines, of different types as showed in the histogram below.
 
- ![Number of machines per type](/assets/machine_types.png)
+ ![Number of machines per type](/assets/machine_types2.png)
 
 ## How this market is distributed in Norway
 
@@ -56,4 +56,12 @@ These factors affects the market for peer-to-peer rental, as distance in transpo
 
 When getting a functional market place for peer-to-peer rental, some actors might want to lean down and base themselves more on rental wheras others might be better of owning more and renting out more.
 
-##
+## What is the market potential for a machine owner, to rent out the machine while not used?
+
+So, what are the potential for a machine owner to rent out their machines when not used? Is it something that could actually contribute significantly to their business?
+
+In order to answer this we have looked into rental prices per categories of machines, and found an estimated rental price per day per machine. We know that the need for machines fluctuates for these machine owners as they have variable activity throughout the year. Actually, utilization of heavy machinery is a big focus for these companies. It is big investments, that needs to be put to work to make it good investments.
+
+In Norway the number of working days a year is 230 and through market reports and talks with industry professionals we find that the avergage annual utilization is 40 %. This means that the machines are idle 60%. In this we assume that 30% is planned maintanance and other factors preventing rental, so we set 30% as the average percent a machine is available for rental.
+
+With this, we want to look into the market potential in additional revenue these machine owners.
