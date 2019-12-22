@@ -3,12 +3,12 @@ layout:            post
 title:             "AirBnB for Heavy Machinery Improves Industry Productivity with 10%"
 menutitle:         "AirBnB for Heavy Machinery"
 date:              2019-12-20 18:25:00 +0300
-tags:              Construction Utilization DataDriven Productivity
+tags:              "Platform Economy"
 category:          Construction
 author:            rnsigve
 comments:          false
 cover:             "assets/utilization_header.png"
-redirect_from:     "/machine-utilization"
+redirect_from:     "/airbnb-for-machinery"
 ---
 ## Low Productivity and Margins in Construction
 
